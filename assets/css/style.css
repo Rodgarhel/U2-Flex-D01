@@ -82,10 +82,14 @@ button{
     padding: 15px;
     border: none;
 }
-
-.contacts {
-    
+button:hover {
+    background-color: #cdc3e6;
+    cursor: pointer;
 }
+button:focus {
+    background-color: #bec1bb;
+}
+
 .cntc-profile {
     
     padding: 10px;
