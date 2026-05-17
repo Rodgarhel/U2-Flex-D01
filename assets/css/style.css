@@ -31,7 +31,6 @@ aside {
     flex-direction: column;
     width: 20%;
     
-    padding: 10px;
 }
 
 header {
@@ -67,20 +66,21 @@ header .profile img{
     align-items: center;
     padding-right: 20px;
 }
-.button{
+.button-box{
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid #e8ebe4;
-    padding: 20%;
+    padding: 2.5em;
 }
 button{
     padding: 5px;
-    font-size: 14px;
+    font-size: 16px;
     background-color: #a391d2;
     color: #fff;
     width: 80%;
-    padding: 10px;
+    padding: 15px;
+    border: none;
 }
 
 .contacts {
